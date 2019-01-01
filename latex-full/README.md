@@ -1,5 +1,5 @@
 # latex
-Alpine Linux with Full texlive Distribution
+Full texlive Distribution on Alpine Linux
 
 ## Usage
 This is a minimal image for use in CI environments.
